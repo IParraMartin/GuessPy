@@ -1,3 +1,6 @@
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/IParraMartin/GuessPy)
+![GitHub repo size](https://img.shields.io/github/repo-size/IParraMartin/GuessPy?color=red)
+
 # GuessPy
 A game of guessing the number, just for fun!
 
